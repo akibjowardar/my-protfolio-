@@ -1,0 +1,16 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.color{
+    color: maroon;
+}
+.width{
+   padding-left: 2px;
+   margin-left: 5px;
+    float: left;
+    width: 40%;
+
+}
+.width img{
+    width: 100%;
+}
